@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nombreexamen/static/css/main.073c9b0a.css",
+    "main.js": "/nombreexamen/static/js/main.0722d72c.js",
+    "static/js/787.cc4e593a.chunk.js": "/nombreexamen/static/js/787.cc4e593a.chunk.js",
+    "static/media/logo.svg": "/nombreexamen/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/nombreexamen/index.html",
+    "main.073c9b0a.css.map": "/nombreexamen/static/css/main.073c9b0a.css.map",
+    "main.0722d72c.js.map": "/nombreexamen/static/js/main.0722d72c.js.map",
+    "787.cc4e593a.chunk.js.map": "/nombreexamen/static/js/787.cc4e593a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0722d72c.js"
+  ]
+}
